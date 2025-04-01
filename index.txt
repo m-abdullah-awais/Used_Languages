@@ -1,0 +1,5 @@
+Project Name: Tech Stack Demo
+Version: 1.0.0
+Description: A demonstration of various programming languages and technologies
+Author: Your Name
+Last Updated: 2023
