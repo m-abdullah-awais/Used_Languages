@@ -7,6 +7,7 @@
 *.php linguist-language=PHP linguist-detectable=true linguist-documentation=false
 *.sql linguist-language=SQL linguist-detectable=true linguist-documentation=false
 *.json linguist-language=JSON linguist-detectable=true linguist-documentation=false
+*.gs linguist-language=JavaScript linguist-detectable=true linguist-documentation=false
 *.md linguist-language=Markdown
 *.txt linguist-language=Text
 
